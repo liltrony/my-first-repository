@@ -2,7 +2,7 @@
 
 ### Hello my name is Chief Keff
 
-![my_photo].(https://hollywoodlife.com/wp-content/uploads/2018/06/Chief-Keef-5-Things-embed-1.jpg)
+![my_photo](https://hollywoodlife.com/wp-content/uploads/2018/06/Chief-Keef-5-Things-embed-1.jpg)
 
 
 **I'm javascript developer.**
