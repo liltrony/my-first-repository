@@ -1,6 +1,6 @@
 # my-first-repository
 
-### Hello my name is Chief Keff
+### Hello my name is Young Thug
 
 ![my_photo](https://upload.wikimedia.org/wikipedia/ru/2/2d/Finally_Rich_cover.jpg)
 
