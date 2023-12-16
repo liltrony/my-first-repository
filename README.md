@@ -2,7 +2,8 @@
 
 ### Hello my name is Young Thug
 
-![my_photo](https://content.assets.pressassociation.io/2022/06/03043138/b35a057f-0f61-449c-9166-74ca5c66eac1.jpg)
+![my_photo](![image](https://github.com/liltrony/my-first-repository/assets/151849959/fbcef0b2-6fb0-4dcb-9ca7-f9575ecefc07)
+)
 
 
 **I'm javascript developer.**
