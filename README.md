@@ -2,8 +2,8 @@
 
 ### Hello my name is Young Thug
 
-![my_photo](![image](https://github.com/liltrony/my-first-repository/assets/151849959/fbcef0b2-6fb0-4dcb-9ca7-f9575ecefc07)
-)
+![my_photo](https://pagesix.com/wp-content/uploads/sites/3/2022/05/young-thug-80.jpg)
+
 
 
 **I'm javascript developer.**
