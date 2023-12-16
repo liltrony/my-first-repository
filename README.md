@@ -1,6 +1,6 @@
 # my-first-repository
 
-### Hello my name is Young Thug
+### #FreeYoungThug
 
 ![my_photo](https://pagesix.com/wp-content/uploads/sites/3/2022/05/young-thug-80.jpg)
 
