@@ -2,7 +2,7 @@
 
 ### Hello my name is Young Thug
 
-![my_photo](https://upload.wikimedia.org/wikipedia/ru/2/2d/Finally_Rich_cover.jpg)
+![my_photo](https://content.assets.pressassociation.io/2022/06/03043138/b35a057f-0f61-449c-9166-74ca5c66eac1.jpg)
 
 
 **I'm javascript developer.**
